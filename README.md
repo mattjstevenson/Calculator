@@ -1,6 +1,6 @@
 # MacOS Calculator App - React
 
-[React Docs](https://vuejs.org/v2/guide/)
+[React Docs](https://reactjs.org/docs/getting-started.html)
 
 ### Run:
 
